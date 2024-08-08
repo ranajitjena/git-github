@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>First Openshift Project</title>
-</head>
-<body>
-
-<h1>This is developed by Ranajit</h1>
-<p>Ranjit HTML Project</p>
-
-</body>
-</html>
+<?php
+echo "Hello World!";
+?>
